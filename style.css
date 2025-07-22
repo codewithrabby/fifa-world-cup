@@ -102,3 +102,28 @@
     gap: 20px;
     color: #161616cc;
 }
+
+/* footer section */
+.footer{
+    background-color: black;
+    width: 100%;
+}
+.footer h1{
+    color: white;
+    text-align: center;
+    padding: 50px 0;
+    font-size: 3rem;
+    font-weight: bold;
+}
+.footer-link{
+    padding-top: 60px;
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+}
+.footer-link a{
+    text-decoration: none;
+    color: white;
+    font-size: 1rem;
+}
